@@ -1,0 +1,6 @@
+{
+  "name": "BENSALMAN 👑 Offline Mesh Messenger",
+  "description": "Production-ready offline mesh messaging app working with zero internet or SIM using BLE, WiFi Direct, and Store-and-Forward relay with Green Family-Safe charter.",
+  "requestFramePermissions": ["microphone"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
